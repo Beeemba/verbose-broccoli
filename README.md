@@ -9,7 +9,7 @@
 <p style=text-indent:25px;>Я люблю <B>Фантастику, компьютеры и музыку в стиле Black Metal.</B></p>
 <p style=text-indent:25px;>Терпеть не могу <B>РЭП и хомячков.</B></p>
 <p><center>Для тех, кто еще не знает, как я выгляжу, - моя фотография:</p></center>
-<p><center><IMG SRC="1.jpg" style="width:478;height:638; border:4"</p></center>
+<p><center><IMG SRC="https://github.com/Beeemba/verbose-broccoli/edit/main/1.jpg" style="width:478;height:638; border:4"</p></center>
 <hr>
 <center>Можете попробовать поискать информацию обо мне на <a href="https://yandex.ru/">Яндексе.</a></center></p>
 <center>и напишите мне письмо на <a href="mailto:user@usa.net">User@usa.net</a>, что у Вас вышло</center>
