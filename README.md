@@ -17,7 +17,6 @@
 <p style=text-indent:25px;><a href="">Обзор интернет ресурсов по Информационным технологиям</a></p>
 <p style=text-indent:25px;><a href="">Путеводитель по Сургуту</a></p>
 <p><center><IMG SRC="1.gif" style="width:400;height:300; border:4"></p></center>
-<script src="https://yastatic.net/share2/share.js"></script>
 <CENTER><div class="ya-share2" data-curtain data-shape="round" 
 data-services="messenger,vkontakte,facebook,odnoklassniki"></div></CENTER>
 </body>
