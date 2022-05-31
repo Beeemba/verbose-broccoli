@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Моя домашняя страница</title>
+Моя домашняя страница
 </head>
 <body text="000000" bgcolor="#7fc7ff" link="ffffff" vlink="#0000ff" alink="#f0f8ff">
 <center><h1>Приветствую на моей домашней странице!</h1></center>
