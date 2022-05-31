@@ -14,8 +14,8 @@
 <center>Можете попробовать поискать информацию обо мне на <a href="https://yandex.ru/">Яндексе.</a></center></p>
 <center>и напишите мне письмо на <a href="mailto:user@usa.net">User@usa.net</a>, что у Вас вышло</center>
 <p><center>Созданные мною сайты:</center></p>
-<p><a href="">Обзор интернет ресурсов по Информационным технологиям</a></p>
-<p><a href="">Путеводитель по Сургуту</a></p>
+<p><a href="https://beeemba.github.io/didactic-giggle/">Обзор интернет ресурсов по Информационным технологиям</a></p>
+<p><a href="https://beeemba.github.io/symmetrical-broccoli/">Путеводитель по Сургуту</a></p>
 <p><center><IMG SRC="1.gif" style="width:400;height:300; border:4"></center>
 <script src="https://yastatic.net/share2/share.js"></script>
 <CENTER><div class="ya-share2" data-curtain data-shape="round" 
